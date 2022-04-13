@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#input {
+    margin-top: 1rem;
+    padding: 15px 0;
+    font-size: 17px;
+}
+
+button {
+    padding: 17px 15px;
+    border: none;
+    font-size: 17px;
+}
+button:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
+h1{
+    margin-top: 3rem;
+}
